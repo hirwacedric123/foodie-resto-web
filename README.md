@@ -18,10 +18,6 @@ A visually appealing, fully responsive restaurant website designed using **HTML*
 
 ---
 
-### Screenshots  
-> *Include screenshots or GIFs of your website here to give users a visual idea.*
-
----
 
 ### Technologies Used  
 - **HTML**: For the structure of the website.  
