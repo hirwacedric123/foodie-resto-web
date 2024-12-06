@@ -34,11 +34,11 @@ A visually appealing, fully responsive restaurant website designed using **HTML*
 To set up the project locally:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   git clone https://github.com/hirwacedric123/foodie-resto-web.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd restaurant-website
+   cd foodie-resto-web
    ```
 3. Open `index.html` in your preferred browser.
 
@@ -68,13 +68,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contact  
 For questions or suggestions, please contact:  
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
+- **Your Name**: [hirwacer12@gmail.com](mailto:hirwacedr12@gmail.com)  
+- **GitHub**: [github.com/your-username](https://github.com/hirwacedric123)  
 
 ---
 
-### Example Preview  
-> You can include a live link if hosted, e.g., GitHub Pages or another service:  
-[Live Demo](https://your-username.github.io/restaurant-website/)  
 
----
